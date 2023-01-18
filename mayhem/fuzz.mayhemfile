@@ -1,0 +1,4 @@
+project: keto
+target: fuzz
+cmds:
+- cmd: /out/fuzz
