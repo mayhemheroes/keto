@@ -17,4 +17,4 @@
 
 # This could use a lot more fuzzers. It's on my back-log.
 # This could also use a seed corpus.
-compile_go_fuzzer github.com/ory/keto/internal/schema Fuzz fuzz gofuzz
+compile_go_fuzzer github.com/ory/keto/internal/schema LibfuzzerFuzzParser fuzz gofuzz
